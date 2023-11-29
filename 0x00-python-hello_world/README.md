@@ -1,1 +1,2 @@
-Fisrt python task : 0x00. Python - Hello, World
+My first job in python : 0x00 python hello world project
+
