@@ -1,2 +1,2 @@
-project: 0x0C-python-almost_a_circle
-Auth: Mohammed BOUNA
+Project: Python Small project with unittest
+AUTH: Mohammed BOUNA
